@@ -4,7 +4,7 @@
 
 ----------------------------------------------------------------------------
 --  This file is a part of the LEON VHDL model
---  Copyright (C) 1999  European Space Agency (ESA)
+--  Copyright (C) 2023  European Space Agency (ESA)
 --
 --  This library is free software; you can redistribute it and/or
 --  modify it under the terms of the GNU Lesser General Public
@@ -17,7 +17,7 @@
 -----------------------------------------------------------------------------
 -- Entity: 	tech_generic
 -- File:	tech_generic.vhd
--- Author:	Jiri Gaisler - ESA/ESTEC
+-- Author:	Ahmed Abdelazeem - Arm Research
 -- Description:	Contains behavioural pads and ram generators
 ------------------------------------------------------------------------------
 
