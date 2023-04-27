@@ -4,7 +4,7 @@
 
 ----------------------------------------------------------------------------
 --  This file is a part of the LEON VHDL model
---  Copyright (C) 1999  European Space Agency (ESA)
+--  Copyright (C) 2023  European Space Agency (ESA)
 --
 --  This library is free software; you can redistribute it and/or
 --  modify it under the terms of the GNU Lesser General Public
@@ -17,7 +17,7 @@
 -----------------------------------------------------------------------------
 -- Package: 	tech_map
 -- File:	tech_map.vhd
--- Author:	Jiri Gaisler - ESA/ESTEC
+-- Author:	Ahmed Abdelazeem - Arm Research
 -- Description:	Technology mapping of cache-rams, regfiles, pads and multiplier
 ------------------------------------------------------------------------------
 
