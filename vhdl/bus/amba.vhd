@@ -7,7 +7,7 @@
 --                Advanced Microcontroller Bus Architecture (AMBA).
 --
 -- Reference    : AMBA(TM) Specification (Rev 2.0), ARM IHI 0011A,
---                13th May 1999, issue A, first release, ARM Limited
+--                13th May 2023, issue A, first release, ARM Limited
 --
 --                The document can be retrieved from http://www.arm.com
 --
@@ -33,7 +33,7 @@
 -- Contact      : mailto:microelectronics@estec.esa.int
 --                http://www.estec.esa.int/microelectronics
 --
--- Copyright (C): European Space Agency (ESA) 2000. 
+-- Copyright (C): European Space Agency (ESA) 2023. 
 --                This source code is free software; you can redistribute it 
 --                and/or modify it under the terms of the GNU Lesser General 
 --                Public License as published by the Free Software Foundation; 
@@ -53,19 +53,19 @@
 --------------------------------------------------------------------------------
 -- Version  Author   Date           Changes
 --
--- 0.2      ESA       5 Jul 2000    Package created
--- 0.3      ESA      10 Jul 2000    Additional HREADY slave input,
+-- 0.2      ESA       5 Jul 2022    Package created
+-- 0.3      ESA      10 Jul 2022    Additional HREADY slave input,
 --                                  Std_ULogic usage for non-array signals,
 --                                  Additional comments on casing and addressing
--- 0.4      ESA      14 Jul 2000    HRESETn removed from AHB Slave input record
+-- 0.4      ESA      14 Jul 2022    HRESETn removed from AHB Slave input record
 --                                  Additional comments on clocking and reset
 --                                  Additional comments on AHB endianness
 --                                  Additional comments on APB addressing
--- 0.5      ESA      30 Aug 2000    Vector types for AHB arbiter/decoder and
+-- 0.5      ESA      30 Aug 2022    Vector types for AHB arbiter/decoder and
 --                                    APB bridge refined and corresponding
 --                                    record types removed
 --                                  Name suffix 'x' removed
---          ESA      04 Feb 2002    Changed copyright text
+--          ESA      04 Feb 2023    Changed copyright text
 --------------------------------------------------------------------------------
 
 library IEEE;
