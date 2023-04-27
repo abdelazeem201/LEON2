@@ -1,6 +1,6 @@
 ----------------------------------------------------------------------------
 --  This file is a part of the LEON VHDL model
---  Copyright (C) 2003 Gaisler Research
+--  Copyright (C) 2023 Arm Research
 --
 --  This library is free software; you can redistribute it and/or
 --  modify it under the terms of the GNU Lesser General Public
@@ -12,7 +12,7 @@
 -- Entity: 	eth_oc
 -- File:	eth_oc.vhd
 -- Description:	Backend for Opencores PCI_IF
--- Author:     	Daniel Hedberg, Jiri Gaisler - Gaisler Research
+-- Author:     	Ahmed Abdelazeem, Mohamed Tarek - Arm Research
 ------------------------------------------------------------------------------
 
 library ieee;
