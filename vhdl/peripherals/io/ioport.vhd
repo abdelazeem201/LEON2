@@ -4,7 +4,7 @@
 
 ----------------------------------------------------------------------------
 --  This file is a part of the LEON VHDL model
---  Copyright (C) 1999  European Space Agency (ESA)
+--  Copyright (C) 2023  European Space Agency (ESA)
 --
 --  This library is free software; you can redistribute it and/or
 --  modify it under the terms of the GNU Lesser General Public
@@ -17,7 +17,7 @@
 -----------------------------------------------------------------------------
 -- Entity: 	ioport
 -- File:	ioport.vhd
--- Author:	Jiri Gaisler - Gaisler Research
+-- Author:	Ahmed Abdelazeem - Arm Research
 -- Description:	Parallel I/O port. On reset, all port are programmed as
 --		inputs and remaning registers are unknown. This means
 --		that the interrupt configuration registers must be
