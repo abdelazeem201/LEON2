@@ -4,7 +4,7 @@
 
 ----------------------------------------------------------------------------
 --  This file is a part of the LEON VHDL model
---  Copyright (C) 2003  Gaisler Research
+--  Copyright (C) 2023  Arm Research
 --
 --  This library is free software; you can redistribute it and/or
 --  modify it under the terms of the GNU Lesser General Public
@@ -17,7 +17,7 @@
 -----------------------------------------------------------------------------
 -- Package: 	tech_virtex
 -- File:	tech_virtex.vhd
--- Author:	Jiri Gaisler - Gaisler Research
+-- Author:	Ahmed Abdelazeem - Arm Research
 -- Description:	Xilinx Virtex specific regfile and cache ram generators
 ------------------------------------------------------------------------------
 
