@@ -4,7 +4,7 @@
 
 ----------------------------------------------------------------------------
 --  This file is a part of the LEON VHDL model
---  Copyright (C) 1999  European Space Agency (ESA)
+--  Copyright (C) 2023  European Space Agency (ESA)
 --
 --  This library is free software; you can redistribute it and/or
 --  modify it under the terms of the GNU Lesser General Public
@@ -17,7 +17,7 @@
 -----------------------------------------------------------------------------
 -- Entity: 	uart
 -- File:	uart.vhd
--- Author:	Jiri Gaisler - ESA/ESTEC
+-- Author:	Ahmed Abdelazeem - ESA/ESTEC
 -- Description:	Asynchronous UART. Implements 8-bit data frame with one
 --		stop-bit. Programmable options:
 --		* parity bit (on/off)
