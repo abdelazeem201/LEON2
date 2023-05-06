@@ -1,5 +1,5 @@
 -- Automatically generated file
--- Copyright 2004, Konrad Eisele<eiselekd.de>
+-- Copyright 2022, Ahmed Abdelazeem<abdelazeem201>
 -- $(lic)
 -- $(help_generic)
 -- $(help_local)
